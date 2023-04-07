@@ -2781,3 +2781,22 @@ JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error:
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1680885772538	geckodriver	INFO	Listening on 127.0.0.1:55523
+1680885775607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\barbu\\AppData\\Local\\Temp\\rust_mozprofile3LUNti"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1680885776048	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680885776054	Marionette	INFO	Listening on port 55531
+Read port: 55531
+WebDriver BiDi listening on ws://127.0.0.1:55524
+1680885776236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\barbu\\AppData\\Local\\Temp\\rust_mozprofile3LUNti\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55524/devtools/browser/acf1d9cc-ac6a-4d61-b0fc-9dd7e2a5530b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/lLwpSR5MnyGzOFtGAuW1fc1OQlo0k-g4ASkZp7pYH4M.js line 2 > eval line 1058 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.vexio.ro/placi-video/gigabyte/649839-geforce-rtx-3060-ti-vision-oc-8g-rev-2-0-nvidia-8-gb-gddr6/?ref=compari&utm_source=compari&utm_medium=pricegrabbers&utm_campaign=Placi+video&utm_content=Gigabyte&utm_term=GeForce+RTX+3060+Ti+VISION+OC+8G+%28rev.+2.0%29+NVIDIA+8+GB+GDDR6, line 1361: ReferenceError: dataLayer is not defined
+1680888915754	Marionette	INFO	Stopped listening on port 55531
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
