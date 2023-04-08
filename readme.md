@@ -3,7 +3,7 @@
 
 This is where I keep some notes for Selenium WebDriver automation testing.
 
-# To make Chrome work without closing imediatly
+# To make Chrome work without closing immediatly
 
 
 
