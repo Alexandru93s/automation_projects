@@ -18,4 +18,6 @@ This is where I keep some notes for Selenium WebDriver automation testing.
   options.add_experimental_option("detach", True)
   driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 ```
-    
+ 
+ 
+ ![]https://github.com/Alexandru9s/automation_projects/seleniumautomationvideo (1).gif
