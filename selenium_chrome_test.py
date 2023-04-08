@@ -15,5 +15,5 @@ respinge_tot.click()
 cautare = driver.find_element(By.NAME, "q")
 cautare.send_keys("RTX 3070" + Keys.ENTER)
 driver.implicitly_wait(5)
-driver.find_element(By.XPATH, '//*[@id="rso"]/div[1]/div/div/div[1]/div/a'`).click()
+driver.find_element(By.XPATH, '//*[@id="rso"]/div[1]/div/div/div[1]/div/a').click()
 
