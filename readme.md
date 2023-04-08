@@ -20,4 +20,4 @@ This is where I keep some notes for Selenium WebDriver automation testing.
 ```
  
  
- ![](https://github.com/Alexandru9s/automation_projects/seleniumautomationvideo.gif)
+ ![Firefoxgif](https://github.com/Alexandru9s/automation_projects/seleniumautomationvideo.gif =250x250)
